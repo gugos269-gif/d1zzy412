@@ -1,4 +1,77 @@
 {
-  "tags_summary": {},
-  "plugins": []
+  "tags_summary": {
+    "Utility": 5
+  },
+  "plugins": [
+    {
+      "id": "delete_by_type",
+      "name": "удалить по типу",
+      "author": "личное",
+      "version": "1.0.0",
+      "state": "release",
+      "icon": "msg_delete",
+      "app_version": ">=11.12.0",
+      "link": "https://raw.githubusercontent.com/gugos269-gif/Exterastore412/main/plugins/delete_by_type_1.0.0.plugin",
+      "size": "10.64 KB",
+      "description": "Удаление своих сообщений по типу, по периоду времени и по содержимому (ключевое слово).",
+      "tags": ["Utility"],
+      "restart": "optional"
+    },
+    {
+      "id": "gifts",
+      "name": "подарки",
+      "author": "@d1zzy412 & @mishabotov",
+      "version": "1.0.0",
+      "state": "release",
+      "icon": "CherryEmoji/16",
+      "app_version": ">=12.5.1",
+      "link": "https://raw.githubusercontent.com/gugos269-gif/Exterastore412/main/plugins/gifts_1.0.0.plugin",
+      "size": "21.61 KB",
+      "description": "функция отложенных подарков + удалённые подарки есть (3 плагина в 1)",
+      "tags": ["Utility"],
+      "restart": "optional"
+    },
+    {
+      "id": "spammer",
+      "name": "Spammer",
+      "author": "@d1zzy412",
+      "version": "1.0.0",
+      "state": "release",
+      "icon": "exteraPlugins/1",
+      "app_version": ">=12.5.1",
+      "link": "https://raw.githubusercontent.com/gugos269-gif/Exterastore412/main/plugins/spammer_1.0.0.plugin",
+      "size": "1.92 KB",
+      "description": "спамит словом",
+      "tags": ["Utility"],
+      "restart": "optional"
+    },
+    {
+      "id": "tdesktop_copy",
+      "name": "Copy Like TDesktop",
+      "author": "@d1zzy412",
+      "version": "1.0.0",
+      "state": "release",
+      "icon": "exteraPlugins/1",
+      "app_version": ">=12.8.1",
+      "link": "https://raw.githubusercontent.com/gugos269-gif/Exterastore412/main/plugins/tdesktop_copy_1.0.0.plugin",
+      "size": "1.76 KB",
+      "description": "Копирует сообщения с датой и временем в стиле Telegram Desktop",
+      "tags": ["Utility"],
+      "restart": "optional"
+    },
+    {
+      "id": "week_",
+      "name": "неделя",
+      "author": "личное",
+      "version": "1.0.0",
+      "state": "release",
+      "icon": "msg_calendar",
+      "app_version": ">=12.5.1",
+      "link": "https://raw.githubusercontent.com/gugos269-gif/Exterastore412/main/plugins/week_1.0.0.plugin",
+      "size": "2.05 KB",
+      "description": "день недели возле даты",
+      "tags": ["Utility"],
+      "restart": "optional"
+    }
+  ]
 }
